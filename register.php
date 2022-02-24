@@ -3,7 +3,7 @@
     include_once'includes/header.php'; 
     include_once'controllers/ParseRegister.php';
 ?>
-        <section id="register-main">
+        <section id="register-main loading">
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
